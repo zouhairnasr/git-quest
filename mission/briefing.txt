@@ -3,7 +3,6 @@
 ##################################################
 objective: master version control, leave no trace
            (except beautiful commits)
-<<<<<<< HEAD
 codename: 123456789
 clearance: LEVEL-5
 ##################################################
