@@ -3,6 +3,6 @@
 ##################################################
 objective: master version control, leave no trace
            (except beautiful commits)
-codename: TBD
+codename: 123456789
 status:   STANDBY
 ##################################################
